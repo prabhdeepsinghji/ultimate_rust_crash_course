@@ -1,0 +1,7 @@
+ownership
+1. Each value has an owner
+2. Only one owner of a variable
+3. Owner goes owt of scope, variable drops immediately
+
+Variable Drop means:
+Destructor, Free heap, Pop Stack
